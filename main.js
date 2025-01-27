@@ -1,2 +1,2 @@
-console.log("KIRIN SHOP");
-console.log("บริการเติมเกม อันดับ 1");
+console.log("Park Hub X Cloud");
+console.log("Model P");
